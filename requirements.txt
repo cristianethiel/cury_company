@@ -3,6 +3,5 @@ numpy==1.24.1
 folium==0.13.0
 haversine==2.8.1
 streamlit==1.17.0
-pathlib==2.11.1
 streamlit_folium==0.4.1
 plotly.graph_objects==5.11.0
