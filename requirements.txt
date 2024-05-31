@@ -4,3 +4,4 @@ folium==0.13.0
 haversine==2.8.1
 streamlit==1.35.0
 streamlit_folium==0.20.0
+plotly==5.22.0
